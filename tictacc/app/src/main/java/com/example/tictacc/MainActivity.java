@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
         RequestBody body = RequestBody.create(jsonBody.toString(),JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization","Bearer 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")
+                .header("Authorization","Bearer Your API Key")
                 .post(body)
                 .build();
 
