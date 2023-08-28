@@ -2,7 +2,6 @@
 "Step into a new era of communication with EasyChatGPT - the ultimate AI-powered chat application! Immerse yourself in the magic of real-time conversations brought to life by the unparalleled brilliance of the OpenAI GPT-3 model, seamlessly orchestrated through the OkHttp library for lightning-fast API calls. Say hello to a world where technology and conversation converge in perfect harmony, as we present to you:
 
 ![Screenshot (608)](https://github.com/kavishka852/ZeroChatGPT-AI-Powered-Chat-App/assets/102681233/22291e7b-0940-4c55-ba1e-dd9cebadc81b)
-
 ![Screenshot (609)](https://github.com/kavishka852/ZeroChatGPT-AI-Powered-Chat-App/assets/102681233/367b6b9e-5321-4708-bbaf-5ecdc3aff946)
 
 **Welcome to EasyChatGPT**: Your gateway to AI-driven interactions that transcend the ordinary, creating conversations that feel both natural and extraordinary.
